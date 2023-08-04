@@ -3,9 +3,12 @@
 ## Attention
 
 as of now the plugin is published at www.gaphux.com.
+
 A login is necessary but still free!
 
-Plugin Import
+
+
+## Plugin Import
 https://help2.malighting.com/Page/grandMA3/Plugins/en/1.9#toc_header_anchor_7
 
 
