@@ -1,6 +1,6 @@
 # GMA3_StoreAsRecipe
 
-## attention
+## Attention
 
 as of now the plugin is published at www.gaphux.com.
 A login is necessary but still free!
